@@ -1,0 +1,4 @@
+This project originally includes a file named 'Shooting-Windows.ucas' (~900 MB), which exceeds GitHub's upload limits.
+
+To access the file, please download it from:
+https://drive.google.com/file/d/1tnLotyHJn2coPpEs8KailV95Tx_OTlzU/view?usp=sharing
